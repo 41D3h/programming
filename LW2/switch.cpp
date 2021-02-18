@@ -12,9 +12,9 @@ int main() {
         case 2: cout << "Известия"; break;
         case 3: cout << "Коммерсантъ"; break;
         case 4: cout << "Московский Комсомолец"; break;
-        case 5: cout << "РБК"; break;
-        case 6: cout << "Комсомольская правда"; break;
-        case 7: cout << "Российская газета"; break;
-        default:cout << "Неверный ввод"; break;
+        case 5: cout << "Комсомольская правда"; break;
+        case 6: cout << "Московские новости"; break;
+        case 7: cout << "New York Times"; break;
+        default:cout << "Неверный ввод";
     }
 }
