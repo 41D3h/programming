@@ -13,7 +13,7 @@ int main() {
     }
     sum += k + 1;
 
-    cout << "Результат вычисления = " << sum + comp;
+    cout << "Результат вычисления = " << sum + comp << std::endl;
 
     return 0;
 }
