@@ -4,7 +4,7 @@ using std::cin, std::cout;
 
 int main() {
     auto input = 0;
-    cout << "Введите цифру 1-7, чтобы выбрать печатное издание";
+    cout << "Введите цифру 1-7, чтобы выбрать печатное издание" << std::endl;
     cin >> input;
 
     switch (input) {
